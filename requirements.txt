@@ -1,0 +1,12 @@
+transformers
+sentencepiece
+accelerate
+ipywidgets
+
+llama-index
+llama-index-core
+llama-index-embeddings-langchain
+llama-index-llms-langchain
+bitsandbytes
+sentence_transformers
+langchain
